@@ -163,7 +163,7 @@ function generateProjectsList() {
 
 export default defineConfig({
   // Base precisa ser o nome do repositório quando usando GitHub Pages em user.github.io/RepoName/
-  base: '/Portfolio/',
+  base: '/',
   plugins: [react(), musicLoaderPlugin()],
   assetsInclude: ['**/*.mp3', '**/*.wav', '**/*.ogg', '**/*.mp4', '**/*.webm'],
   publicDir: 'public',
