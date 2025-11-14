@@ -1,0 +1,27 @@
+{
+  "site": {
+    "title": "𝐅𝐄𝐍",
+    "description": "Criador de conteúdo, músico e desenvolvedor. Transformando ideias em realidade através da música e tecnologia.",
+    "profileImage": "assets/profile/1569750695_85162980313219_17545149618692.jpg"
+  },
+  "contact": {
+    "email": "fen79980@gmail.com",
+    "emailjs": {
+      "serviceId": "service_nbjrx6c",
+      "templateId": "template_73pxk2j",
+      "publicKey": "Fv8Gr56tVT2l0ynVP"
+    }
+  },
+  "socialMedia": {
+    "youtube": "https://www.youtube.com/@seu-canal",
+    "discord": "https://discord.gg/7RGxxvfu",
+    "twitter": "https://twitter.com/seu-usuario",
+    "instagram": "https://instagram.com/seu-usuario",
+    "tiktok": "https://tiktok.com/@seu-usuario"
+  },
+  "music": {
+    "defaultGenre": "Música",
+    "defaultVolume": 0.5,
+    "backgroundVolume": 0.05
+  }
+}
