@@ -56,7 +56,7 @@ function App() {
                       onClick={() => scrollToSection(section.id)}
                       className={`flex items-center space-x-2 px-3 py-2 rounded-lg transition-all ${
                         activeSection === section.id
-                          ? 'bg-blue-600 text-white'
+                          ? 'bg-red-600 text-white'
                           : 'text-gray-300 hover:bg-white/10'
                       }`}
                     >
